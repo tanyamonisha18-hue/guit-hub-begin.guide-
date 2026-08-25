@@ -1,5 +1,5 @@
 # guit-hub-begin.guide-
-beginner friendly guide  
+Beginner friendly guide  
 # Beginner's Guide to GitHub
 
 A simple beginner-friendly guide to understanding and using GitHub.
