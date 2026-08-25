@@ -7,9 +7,9 @@ A simple beginner-friendly guide to understanding and using GitHub.
 ## Table of Contents
 
 1. [Chapter 1: Introduction to GitHub](chapter-1.md)
-2. [Chapter 1: Introduction to GitHub](chapter-2.md)
-3. [Chapter 1: Introduction to GitHub](chapter-3.md)
-3. [Chapter 3: Working with Files and Commits](chapter-4.md)
+2. [Chapter 2: Introduction to GitHub](chapter-2.md)
+3. [Chapter 3: Introduction to GitHub](chapter-3.md)
+3. [Chapter 4: Working with Files and Commits](chapter-4.md)
 
 ## About This Guide
 
