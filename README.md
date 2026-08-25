@@ -35,26 +35,3 @@ GitHub-beginners-guide/
 ├── chapter-2.md
 └── chapter-3.md
 
-### Step 3 — Preview
-
-Click **Preview** at the top.
-
-Your README should now show:
-
-**Beginner's Guide to GitHub**
-
-→ Table of Contents  
-→ Chapter 1  
-→ Chapter 2  
-→ Chapter 3  
-→ Project Structure  
-→ What You Will Learn
-
-And importantly, **Chapter 1, Chapter 2, and Chapter 3 should be clickable**.
-
-### Step 4 — Save
-
-Scroll down and enter this commit message:
-
-```text
-Update README with table of contents
